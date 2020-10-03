@@ -34,5 +34,6 @@ comment configurer le selfbot ?
 }
 ```
 
+-5 Ensuite lancer le Start.bat
 
 Et voila le KF5-project est à vous :)
