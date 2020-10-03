@@ -13,3 +13,10 @@ comment configurer le selfbot ?
 ///exemple
 ///laissez bien les guillemets comme dans l'exemple :
 "token":  "NzI5NjQ5NjE3OTQzMzk2Mzcy.XwMBjw.nTbuP7qa3zAdNUtVcpASy1nfoqE",
+
+-3 Faites de même pour le prefix
+
+{
+    "prefix": "", //tu met ton prefix entre les guillemets
+    "token":"" //tu met ton token entre les guillemets
+}
