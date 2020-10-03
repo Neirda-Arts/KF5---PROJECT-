@@ -20,3 +20,14 @@ comment configurer le selfbot ?
     "prefix": "", //tu met ton prefix entre les guillemets
     "token":"" //tu met ton token entre les guillemets
 }
+
+-4 Si vous ne comprenez pas je vous ai fais un exemple de quoi ça doit ressembler.
+
+{
+    "prefix": "NzI5NjQ5NjE3OTQzMzk2Mzcy.XwMBjw.nTbuP7qa3zAdNUtVcpASy1nfoqE", //tu met ton prefix entre les guillemets
+    "token":"/" //tu met ton token entre les guillemets
+}
+
+
+
+Et voila le KF5-project est à vous :)
