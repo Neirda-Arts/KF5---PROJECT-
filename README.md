@@ -8,17 +8,10 @@ comment configurer le selfbot ?
 
 1- Récuperez votre token : https://www.youtube.com/watch?v=fv-H68OwsIA Vous pouvez regarder cette vidéo qui explique comment le récuperer
 
--2 Ensuite mettez votre token dans le config.json,
+-2 Ensuite mettez votre token/prefix dans le config.json,
 
 ```
 ///exemple
-///laissez bien les guillemets comme dans l'exemple :
-"token":  "NzI5NjQ5NjE3OTQzMzk2Mzcy.XwMBjw.nTbuP7qa3zAdNUtVcpASy1nfoqE",
-```
-
--3 Faites de même pour le prefix
-
-```
 {
     "prefix": "", //tu met ton prefix entre les guillemets
     "token":"" //tu met ton token entre les guillemets
