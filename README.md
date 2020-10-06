@@ -11,7 +11,6 @@ comment configurer le selfbot ?
 -2 Ensuite mettez votre token/prefix dans le config.json,
 
 ```
-///exemple
 {
     "prefix": "", //tu met ton prefix entre les guillemets
     "token":"" //tu met ton token entre les guillemets
