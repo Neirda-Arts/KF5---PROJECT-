@@ -1,0 +1,24 @@
+{
+  "name": "selfbotz",
+  "version": "1.0.0",
+  "description": "Created By KF5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "КF5#4286",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord-rich-presence": "0.0.8",
+    "discord.js": "^11.5.1",
+    "discordrpcgenerator": "^1.2.0",
+    "fs": "0.0.1-security",
+    "getpass": "^0.1.7",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "supports-color": "^7.2.0",
+    "weather-js": "^2.0.0",
+    "websocket": "^1.0.32"
+  }
+}
